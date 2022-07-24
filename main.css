@@ -1,0 +1,23 @@
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 30px;
+    right: 20px;
+    cursor: progress
+    z-index: 10;
+    color: yellow;
+}
+.links{
+    float: left;
+    padding: 5px;
+    color: yellow;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color:yellow;
+}
+.links:hover{
+    background-color: blue;
+    font-size: 20px;
+}
